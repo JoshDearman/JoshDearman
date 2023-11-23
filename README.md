@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshDearman
-- 👀 I’m interested in Web Depelopment
-- 🌱 I’m currently learning HTML5, CSS
+- 👀 I’m interested in Web Depelopment, Java, Data Systems Management
+- 🌱 I’m currently learning HTML5, CSS, SQL, Java
 - 📫 How to reach me joshuadearman37@gmail.com
 
 <!---
